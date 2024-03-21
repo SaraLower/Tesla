@@ -1,0 +1,55 @@
+article {
+    background-color: rgb(48, 47, 47);
+    color: rgb(238, 239, 239);
+    height: 15cm;
+    }
+    
+    
+    
+    
+    
+    .topbar {
+        height: 1.5cm;
+    
+    
+    }
+    .logo{
+        font-size: 150%;
+        color: rgb(242, 242, 242);
+    }
+    .links {
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }
+    .carname {
+    text-align: center;
+    font-size: 250%;
+    height: 3.5pc;
+    }
+    .price {
+    text-align: center;
+    font-size: 130%;
+    }
+    .info {
+    text-align: center;
+    font-size: 80%;
+    }
+    .divider {
+        height: 6cm;
+     }
+    .buttons {
+    text-align: center;
+    
+    }
+    
+    .button1 {}
+    .button2 {
+    }
+    .extra {
+        font-size: 70%;
+    }
+    .gas {
+    font-size: 70%;
+    }
+    
+    
